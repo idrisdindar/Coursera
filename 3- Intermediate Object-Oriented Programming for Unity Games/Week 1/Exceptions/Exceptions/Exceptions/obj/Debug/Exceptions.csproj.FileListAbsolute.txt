@@ -1,0 +1,12 @@
+c:\users\a.t\documents\visual studio 2017\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+c:\users\a.t\documents\visual studio 2017\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+c:\users\a.t\documents\visual studio 2017\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+c:\users\a.t\documents\visual studio 2017\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+c:\users\a.t\documents\visual studio 2017\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+c:\users\a.t\documents\visual studio 2017\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
